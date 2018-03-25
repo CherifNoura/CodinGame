@@ -2,6 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
+/.vs/codingGame/v15/Server/sqlite3/db.lock
+/.vs/codingGame/v15/Server/sqlite3/storage.ide
+/.vs/codingGame/v15/Server/sqlite3/storage.ide-shm
+/.vs/codingGame/v15/Server/sqlite3/storage.ide-wal
+/.vs/codingGame/v15/.suo
 /codingGame/bin/Debug
 /codingGame/obj/Debug
